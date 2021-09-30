@@ -1,0 +1,6 @@
+﻿  App.cpp
+C:\Users\kwokb\source\repos\FirstDirectX\FirstDirectX\MyWin.h(4,1): warning C4005: '_WIN32_WINNT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\sdkddkver.h(220): message : see previous definition of '_WIN32_WINNT'
+C:\Users\kwokb\source\repos\FirstDirectX\FirstDirectX\MyWin.h(44,1): warning C4005: 'STRICT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\minwindef.h(23): message : see previous definition of 'STRICT'
+  FirstDirectX.vcxproj -> C:\Users\kwokb\source\repos\FirstDirectX\Debug\FirstDirectX.exe

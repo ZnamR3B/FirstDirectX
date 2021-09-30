@@ -1,0 +1,46 @@
+﻿  compilation object save succeeded; see C:\Users\kwokb\source\repos\FirstDirectX\FirstDirectX\PixelShader.cso
+  compilation object save succeeded; see C:\Users\kwokb\source\repos\FirstDirectX\FirstDirectX\VertexShader.cso
+  App.cpp
+  dxerr.cpp
+  DxgiInfoManager.cpp
+  ErrorException.cpp
+  Graphics.cpp
+  Keyboard.cpp
+  Mouse.cpp
+  Timer.cpp
+  Window.cpp
+  WindowMessageMap.cpp
+  WinMain.cpp
+C:\Users\kwokb\source\repos\FirstDirectX\FirstDirectX\MyWin.h(4,1): warning C4005: '_WIN32_WINNT': macro redefinition (compiling source file Window.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\sdkddkver.h(220): message : see previous definition of '_WIN32_WINNT' (compiling source file Window.cpp)
+C:\Users\kwokb\source\repos\FirstDirectX\FirstDirectX\MyWin.h(44,1): warning C4005: 'STRICT': macro redefinition (compiling source file Window.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\minwindef.h(23): message : see previous definition of 'STRICT' (compiling source file Window.cpp)
+C:\Users\kwokb\source\repos\FirstDirectX\FirstDirectX\MyWin.h(4,1): warning C4005: '_WIN32_WINNT': macro redefinition (compiling source file DxgiInfoManager.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\sdkddkver.h(220): message : see previous definition of '_WIN32_WINNT' (compiling source file DxgiInfoManager.cpp)
+C:\Users\kwokb\source\repos\FirstDirectX\FirstDirectX\MyWin.h(44,1): warning C4005: 'STRICT': macro redefinition (compiling source file DxgiInfoManager.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\minwindef.h(23): message : see previous definition of 'STRICT' (compiling source file DxgiInfoManager.cpp)
+C:\Users\kwokb\source\repos\FirstDirectX\FirstDirectX\MyWin.h(4,1): warning C4005: '_WIN32_WINNT': macro redefinition (compiling source file WinMain.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\sdkddkver.h(220): message : see previous definition of '_WIN32_WINNT' (compiling source file WinMain.cpp)
+C:\Users\kwokb\source\repos\FirstDirectX\FirstDirectX\MyWin.h(44,1): warning C4005: 'STRICT': macro redefinition (compiling source file WinMain.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\minwindef.h(23): message : see previous definition of 'STRICT' (compiling source file WinMain.cpp)
+C:\Users\kwokb\source\repos\FirstDirectX\FirstDirectX\MyWin.h(4,1): warning C4005: '_WIN32_WINNT': macro redefinition (compiling source file App.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\sdkddkver.h(220): message : see previous definition of '_WIN32_WINNT' (compiling source file App.cpp)
+C:\Users\kwokb\source\repos\FirstDirectX\FirstDirectX\MyWin.h(44,1): warning C4005: 'STRICT': macro redefinition (compiling source file App.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\minwindef.h(23): message : see previous definition of 'STRICT' (compiling source file App.cpp)
+C:\Users\kwokb\source\repos\FirstDirectX\FirstDirectX\MyWin.h(4,1): warning C4005: '_WIN32_WINNT': macro redefinition (compiling source file Graphics.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\sdkddkver.h(220): message : see previous definition of '_WIN32_WINNT' (compiling source file Graphics.cpp)
+C:\Users\kwokb\source\repos\FirstDirectX\FirstDirectX\MyWin.h(44,1): warning C4005: 'STRICT': macro redefinition (compiling source file Graphics.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\minwindef.h(23): message : see previous definition of 'STRICT' (compiling source file Graphics.cpp)
+C:\Users\kwokb\source\repos\FirstDirectX\FirstDirectX\MyWin.h(4,1): warning C4005: '_WIN32_WINNT': macro redefinition (compiling source file Mouse.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\sdkddkver.h(220): message : see previous definition of '_WIN32_WINNT' (compiling source file Mouse.cpp)
+C:\Users\kwokb\source\repos\FirstDirectX\FirstDirectX\MyWin.h(44,1): warning C4005: 'STRICT': macro redefinition (compiling source file Mouse.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\minwindef.h(23): message : see previous definition of 'STRICT' (compiling source file Mouse.cpp)
+C:\Users\kwokb\source\repos\FirstDirectX\FirstDirectX\Graphics.cpp(39,10): warning C4101: 'hr': unreferenced local variable
+C:\Users\kwokb\source\repos\FirstDirectX\FirstDirectX\Graphics.cpp(91,10): warning C4101: 'hr': unreferenced local variable
+  Generating code
+C:\Users\kwokb\source\repos\FirstDirectX\FirstDirectX\WinMain.cpp(19): warning C4715: 'WinMain': not all control paths return a value
+  296 of 856 functions (34.6%) were compiled, the rest were copied from previous compilation.
+    93 functions were new in current compilation
+    71 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  FirstDirectX.vcxproj -> C:\Users\kwokb\source\repos\FirstDirectX\Release\FirstDirectX.exe
